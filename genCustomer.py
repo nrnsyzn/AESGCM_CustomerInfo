@@ -1,3 +1,4 @@
+# This code is written to generate fake customer data for testing
 import csv
 import random
 from faker import Faker
